@@ -1,0 +1,14 @@
+table {
+  border: 2px solid;
+  padding: 5px;
+}
+
+th.nonBlank {
+  border: 2px solid;
+  padding: 5px;
+}
+
+td {
+  border-bottom: 2px solid;
+  padding: 5px;
+}
