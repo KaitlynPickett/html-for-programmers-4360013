@@ -8,7 +8,8 @@ th.nonBlank {
   padding: 5px;
 }
 
-td {
+
+td.uL {
   border-bottom: 2px solid;
   padding: 5px;
 }
